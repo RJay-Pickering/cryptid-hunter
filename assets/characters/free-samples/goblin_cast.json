@@ -1,0 +1,152 @@
+{ "frames": {
+   "goblin_cast 0.aseprite": {
+    "frame": { "x": 0, "y": 0, "w": 44, "h": 58 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 44, "h": 58 },
+    "sourceSize": { "w": 44, "h": 58 },
+    "duration": 150
+   },
+   "goblin_cast 1.aseprite": {
+    "frame": { "x": 44, "y": 0, "w": 44, "h": 58 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 44, "h": 58 },
+    "sourceSize": { "w": 44, "h": 58 },
+    "duration": 150
+   },
+   "goblin_cast 2.aseprite": {
+    "frame": { "x": 88, "y": 0, "w": 44, "h": 58 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 44, "h": 58 },
+    "sourceSize": { "w": 44, "h": 58 },
+    "duration": 150
+   },
+   "goblin_cast 3.aseprite": {
+    "frame": { "x": 132, "y": 0, "w": 44, "h": 58 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 44, "h": 58 },
+    "sourceSize": { "w": 44, "h": 58 },
+    "duration": 150
+   },
+   "goblin_cast 4.aseprite": {
+    "frame": { "x": 0, "y": 58, "w": 44, "h": 58 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 44, "h": 58 },
+    "sourceSize": { "w": 44, "h": 58 },
+    "duration": 150
+   },
+   "goblin_cast 5.aseprite": {
+    "frame": { "x": 44, "y": 58, "w": 44, "h": 58 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 44, "h": 58 },
+    "sourceSize": { "w": 44, "h": 58 },
+    "duration": 150
+   },
+   "goblin_cast 6.aseprite": {
+    "frame": { "x": 88, "y": 58, "w": 44, "h": 58 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 44, "h": 58 },
+    "sourceSize": { "w": 44, "h": 58 },
+    "duration": 150
+   },
+   "goblin_cast 7.aseprite": {
+    "frame": { "x": 132, "y": 58, "w": 44, "h": 58 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 44, "h": 58 },
+    "sourceSize": { "w": 44, "h": 58 },
+    "duration": 150
+   },
+   "goblin_cast 8.aseprite": {
+    "frame": { "x": 0, "y": 116, "w": 44, "h": 58 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 44, "h": 58 },
+    "sourceSize": { "w": 44, "h": 58 },
+    "duration": 150
+   },
+   "goblin_cast 9.aseprite": {
+    "frame": { "x": 44, "y": 116, "w": 44, "h": 58 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 44, "h": 58 },
+    "sourceSize": { "w": 44, "h": 58 },
+    "duration": 150
+   },
+   "goblin_cast 10.aseprite": {
+    "frame": { "x": 88, "y": 116, "w": 44, "h": 58 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 44, "h": 58 },
+    "sourceSize": { "w": 44, "h": 58 },
+    "duration": 150
+   },
+   "goblin_cast 11.aseprite": {
+    "frame": { "x": 132, "y": 116, "w": 44, "h": 58 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 44, "h": 58 },
+    "sourceSize": { "w": 44, "h": 58 },
+    "duration": 150
+   },
+   "goblin_cast 12.aseprite": {
+    "frame": { "x": 0, "y": 174, "w": 44, "h": 58 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 44, "h": 58 },
+    "sourceSize": { "w": 44, "h": 58 },
+    "duration": 150
+   },
+   "goblin_cast 13.aseprite": {
+    "frame": { "x": 44, "y": 174, "w": 44, "h": 58 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 44, "h": 58 },
+    "sourceSize": { "w": 44, "h": 58 },
+    "duration": 150
+   },
+   "goblin_cast 14.aseprite": {
+    "frame": { "x": 88, "y": 174, "w": 44, "h": 58 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 44, "h": 58 },
+    "sourceSize": { "w": 44, "h": 58 },
+    "duration": 150
+   },
+   "goblin_cast 15.aseprite": {
+    "frame": { "x": 132, "y": 174, "w": 44, "h": 58 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 44, "h": 58 },
+    "sourceSize": { "w": 44, "h": 58 },
+    "duration": 150
+   }
+ },
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.2.40-x64",
+  "image": "goblin_cast.png",
+  "format": "RGBA8888",
+  "size": { "w": 176, "h": 232 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "down", "from": 0, "to": 3, "direction": "forward" },
+   { "name": "left", "from": 4, "to": 7, "direction": "forward" },
+   { "name": "right", "from": 8, "to": 11, "direction": "forward" },
+   { "name": "up", "from": 12, "to": 15, "direction": "forward" }
+  ],
+  "layers": [
+   { "name": "Layer 4", "opacity": 255, "blendMode": "normal" },
+   { "name": "Layer 3", "opacity": 255, "blendMode": "normal" },
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}
